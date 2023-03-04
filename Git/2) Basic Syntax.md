@@ -56,6 +56,9 @@
 
 28.  git fetch: To get changes made on the online version of the repository
 
+29. git rm -r .obsidian to remove the folder .obsidian and its files
+30. 
+
 
 
 
